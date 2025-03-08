@@ -1,20 +1,33 @@
 * {
-    margin: 1rem auto;
+    margin: 1rem 1rem;
     padding: 0.9rem;
     text-align: center;
 }
+
 body {
-    background-color: rgb(115, 115, 165);
+    background-color: rgb(134, 91, 56);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
-    
+
 }
+
 h1 {
     font-size: 30px;
 }
+
 h2 {
     font-size: 20px;
 }
+
 p {
-   
+    font-size: 15px;
+}
+
+img {
+    width: 140px;
+    height: 140px;
+}
+
+li {
+    font-size: 20px;
 }
